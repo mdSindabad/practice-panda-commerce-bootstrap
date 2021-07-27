@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-indigo {
+    background-color: #fceae8;
+}
+.bg-pink {
+    background-image: linear-gradient(to bottom, rgba(232, 62, 140, 0.8) , rgba(253, 80, 161, 0.9));
+    color: #fff;
+}
+.text-pink {
+    color: rgb(232, 62, 140);
+}
